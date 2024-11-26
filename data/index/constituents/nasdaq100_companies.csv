@@ -1,0 +1,102 @@
+,Symbol,Company Name,Industry,Sector,Founded,shares outstanding
+0,AAPL,Apple,Consumer Electronics,Technology,1977,15634199635.0
+1,MSFT,Microsoft,Software - Infrastructure,Technology,1975,7429760448.0
+2,GOOGL,Alphabet,Internet Content & Information,Communication Services,1998,12656499765.0
+3,GOOG,Alphabet,Internet Content & Information,Communication Services,1998,12553699686.0
+4,AMZN,Amazon.com,Internet Retail,Consumer Discretionary,1994,10317800324.0
+5,NVDA,NVIDIA,Semiconductors,Technology,1993,2470000118.0
+6,META,Meta Platforms,Internet Content & Information,Communication Services,2004,2573160027.0
+7,TSLA,Tesla,Auto Manufacturers,Consumer Discretionary,2003,3173989792.0
+8,AVGO,Broadcom,Semiconductors,Technology,-,412735995.0
+9,COST,Costco Wholesale,Discount Stores,Consumer Staples,1976,442793012.0
+10,ADBE,Adobe,Software - Infrastructure,Technology,1982,455299981.0
+11,ASML,ASML Holding,Semiconductor Equipment & Materials,Technology,1984,393400005.0
+12,PEP,PepsiCo,Beverages - Non-Alcoholic,Consumer Staples,1898,1374860005.0
+13,CSCO,Cisco Systems,Communication Equipment,Technology,1984,4054860160.0
+14,AZN,AstraZeneca,Drug Manufacturers - General,Healthcare,1992,3099810159.0
+15,CMCSA,Comcast,Telecom Services,Communication Services,1963,4125130115.0
+16,AMD,Advanced Micro Devices,Semiconductors,Technology,1969,1615669941.0
+17,TMUS,T-Mobile US,Telecom Services,Communication Services,1994,1176460034.0
+18,NFLX,Netflix,Entertainment,Communication Services,1997,443147015.0
+19,INTC,Intel,Semiconductors,Technology,1968,4188000069.0
+20,INTU,Intuit,Software - Application,Technology,1983,280259002.0
+21,AMGN,Amgen,Drug Manufacturers - General,Healthcare,1980,534901030.0
+22,PDD,PDD Holdings,Internet Retail,Consumer Discretionary,2015,1328589976.0
+23,TXN,Texas Instruments,Semiconductors,Technology,1930,907966018.0
+24,HON,Honeywell International,Conglomerates,Industrials,-,663960988.0
+25,QCOM,QUALCOMM,Semiconductors,Technology,1985,1116000023.0
+26,AMAT,Applied Materials,Semiconductor Equipment & Materials,Technology,1967,836533990.0
+27,BKNG,Booking Holdings,Travel Services,Consumer Discretionary,1997,35692199.0
+28,SBUX,Starbucks,Restaurants,Consumer Discretionary,1971,1145400005.0
+29,ADP,Automatic Data Processing,Staffing & Employment Services,Industrials,1949,411972021.0
+30,ISRG,Intuitive Surgical,Medical Instruments & Supplies,Healthcare,1995,351355022.0
+31,GILD,Gilead Sciences,Drug Manufacturers - General,Healthcare,1987,1246010012.0
+32,VRTX,Vertex Pharmaceuticals,Biotechnology,Healthcare,1989,258095010.0
+33,REGN,Regeneron Pharmaceuticals,Biotechnology,Healthcare,1988,108558996.0
+34,ADI,Analog Devices,Semiconductors,Technology,1965,498313992.0
+35,MDLZ,Mondelez International,Confectioners,Consumer Staples,-,1360420043.0
+36,LRCX,Lam Research,Semiconductor Equipment & Materials,Technology,1980,132221992.0
+37,ABNB,Airbnb,Travel Services,Consumer Discretionary,2008,638083954.0
+38,PANW,Palo Alto Networks,Software - Infrastructure,Technology,2005,308594988.0
+39,MU,Micron Technology,Semiconductors,Technology,1978,1098029964.0
+40,SNPS,Synopsys,Software - Infrastructure,Technology,1986,152084004.0
+41,CDNS,Cadence Design Systems,Software - Application,Technology,1988,271790016.0
+42,CHTR,Charter Communications,Telecom Services,Communication Services,1993,149671010.0
+43,KLAC,KLA Corporation,Semiconductor Equipment & Materials,Technology,1975,136322005.0
+44,PYPL,PayPal Holdings,Credit Services,Financials,1998,1098040049.0
+45,CSX,CSX Corporation,Railroads,Industrials,-,2006330035.0
+46,MELI,MercadoLibre,Internet Retail,Consumer Discretionary,1999,50092698.0
+47,MAR,Marriott International,Lodging,Consumer Discretionary,1927,298240012.0
+48,WDAY,Workday,Software - Application,Technology,2005,261999994.0
+49,ORLY,O'Reilly Automotive,Specialty Retail,Consumer Discretionary,1957,60258296.0
+50,NXPI,NXP Semiconductors,Semiconductors,Technology,2006,257802010.0
+51,CTAS,Cintas,Specialty Business Services,Industrials,1968,101853999.0
+52,MNST,Monster Beverage,Beverages - Non-Alcoholic,Consumer Staples,-,1047519958.0
+53,TEAM,Atlassian Corporation,Software - Application,Technology,2002,257380995.0
+54,JD,JD.com,Internet Retail,Consumer Discretionary,-,1572999948.0
+55,MRVL,Marvell Technology,Semiconductors,Technology,1995,862799966.0
+56,LULU,Lululemon Athletica,Apparel Retail,Consumer Discretionary,1998,126540991.0
+57,ODFL,Old Dominion Freight Line,Trucking,Industrials,1934,109268005.0
+58,FTNT,Fortinet,Software - Infrastructure,Technology,2000,785337047.0
+59,ADSK,Autodesk,Software - Application,Technology,1982,213763996.0
+60,PCAR,PACCAR,Farm & Heavy Construction Machinery,Industrials,1905,522804972.0
+61,CRWD,CrowdStrike Holdings,Software - Infrastructure,Technology,2011,238788008.0
+62,MCHP,Microchip Technology,Semiconductors,Technology,1989,544334044.0
+63,CPRT,Copart,Auto & Truck Dealerships,Consumer Discretionary,1982,957356083.0
+64,PAYX,Paychex,Staffing & Employment Services,Industrials,1979,361232025.0
+65,TTD,The Trade Desk,Software - Application,Technology,2009,490197992.0
+66,ON,ON Semiconductor,Semiconductors,Technology,-,431528969.0
+67,KDP,Keurig Dr Pepper,Beverages - Non-Alcoholic,Consumer Staples,1981,1397260131.0
+68,SGEN,Seagen,Biotechnology,Healthcare,-,187698006.0
+69,EXC,Exelon,Utilities - Regulated Electric,Utilities,-,995219052.0
+70,KHC,The Kraft Heinz Company,Packaged Foods,Consumer Staples,1869,1228290020.0
+71,MRNA,Moderna,Biotechnology,Healthcare,2010,380593017.0
+72,AEP,American Electric Power Company,Utilities - Regulated Electric,Utilities,1906,515175977.0
+73,BIIB,Biogen,Drug Manufacturers - General,Healthcare,1978,144822999.0
+74,ROST,Ross Stores,Apparel Retail,Consumer Discretionary,1982,338631998.0
+75,IDXX,IDEXX Laboratories,Diagnostics & Research,Healthcare,-,83012401.0
+76,CEG,Constellation Energy,Utilities - Renewable,Utilities,1999,321591992.0
+77,VRSK,Verisk Analytics,Consulting Services,Industrials,1971,145027012.0
+78,BKR,Baker Hughes Company,Oil & Gas Equipment & Services,Energy,-,1016650085.0
+79,EA,Electronic Arts,Electronic Gaming & Multimedia,Communication Services,1982,270912010.0
+80,CTSH,Cognizant Technology Solutions,Information Technology Services,Technology,1994,505040935.0
+81,CSGP,CoStar Group,Real Estate Services,Real Estate,1987,408337004.0
+82,XEL,Xcel Energy,Utilities - Regulated Electric,Utilities,1909,551533016.0
+83,FAST,Fastenal Company,Industrial Distribution,Industrials,1967,571332984.0
+84,GFS,GLOBALFOUNDRIES,Semiconductors,Technology,2009,552673036.0
+85,GEHC,GE HealthCare Technologies,Health Information Services,Healthcare,1892,454838017.0
+86,DXCM,DexCom,Medical Devices,Healthcare,1999,387872008.0
+87,DDOG,Datadog,Software - Application,Technology,2010,324999006.0
+88,FANG,Diamondback Energy,Oil & Gas E&P,Energy,2007,178818003.0
+89,WBD,Warner Bros. Discovery,Entertainment,Communication Services,1923,2437380110.0
+90,ANSS,ANSYS,Software - Application,Technology,1970,86791107.0
+91,ZS,Zscaler,Software - Infrastructure,Technology,2007,147168995.0
+92,DLTR,Dollar Tree,Discount Stores,Consumer Staples,1986,220006002.0
+93,EBAY,eBay Inc.,Internet Retail,Consumer Discretionary,1995,532156982.0
+94,ILMN,Illumina,Diagnostics & Research,Healthcare,1998,158299990.0
+95,ALGN,Align Technology,Medical Devices,Healthcare,1997,76533690.0
+96,WBA,Walgreens Boots Alliance,Pharmaceutical Retailers,Healthcare,1901,863260998.0
+97,ZM,Zoom Video Communications,Software - Application,Technology,2011,300956980.0
+98,SIRI,Sirius XM Holdings,Entertainment,Communication Services,-,3842400041.0
+99,ENPH,Enphase Energy,Solar,Technology,2006,136355015.0
+100,LCID,Lucid Group,Auto Manufacturers,Consumer Discretionary,2007,2282650175.0

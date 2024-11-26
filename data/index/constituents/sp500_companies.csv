@@ -1,0 +1,502 @@
+,Symbol,Company Name,Industry,Sector,Founded,shares outstanding
+0,AAPL,Apple,Consumer Electronics,Technology,1977,15634199635.0
+1,MSFT,Microsoft,Software - Infrastructure,Technology,1975,7429760448.0
+2,GOOGL,Alphabet,Internet Content & Information,Communication Services,1998,12656499765.0
+3,GOOG,Alphabet,Internet Content & Information,Communication Services,1998,12553699686.0
+4,AMZN,Amazon.com,Internet Retail,Consumer Discretionary,1994,10317800324.0
+5,NVDA,NVIDIA,Semiconductors,Technology,1993,2470000118.0
+6,META,Meta Platforms,Internet Content & Information,Communication Services,2004,2573160027.0
+7,TSLA,Tesla,Auto Manufacturers,Consumer Discretionary,2003,3173989792.0
+8,BRK-B,Berkshire Hathaway,Insurance - Diversified,Financials,1839,2181249981.0
+9,LLY,Eli Lilly and Company,Drug Manufacturers - General,Healthcare,1876,949295044.0
+10,V,Visa Inc.,Credit Services,Financials,1958,2079800031.0
+11,UNH,UnitedHealth Group,Healthcare Plans,Healthcare,1977,926305027.0
+12,WMT,Walmart,Discount Stores,Consumer Staples,1945,2691559958.0
+13,JPM,JPMorgan Chase & Co.,Banks - Diversified,Financials,1799,2906089775.0
+14,XOM,Exxon Mobil,Oil & Gas Integrated,Energy,1870,3986499984.0
+15,JNJ,Johnson & Johnson,Drug Manufacturers - General,Healthcare,1886,2408009918.0
+16,MA,Mastercard,Credit Services,Financials,1966,942211994.0
+17,AVGO,Broadcom,Semiconductors,Technology,-,412735995.0
+18,PG,The Procter & Gamble Company,Household & Personal Products,Consumer Staples,1837,2356890187.0
+19,CVX,Chevron,Oil & Gas Integrated,Energy,1879,1907600001.0
+20,ORCL,Oracle,Software - Infrastructure,Technology,1977,2739379993.0
+21,HD,The Home Depot,Home Improvement Retail,Consumer Discretionary,1978,1000070014.0
+22,ABBV,AbbVie,Drug Manufacturers - General,Healthcare,-,1765049943.0
+23,MRK,Merck & Co.,Drug Manufacturers - General,Healthcare,2000,2537520062.0
+24,COST,Costco Wholesale,Discount Stores,Consumer Staples,1976,442793012.0
+25,ADBE,Adobe,Software - Infrastructure,Technology,1982,455299981.0
+26,KO,The Coca-Cola Company,Beverages - Non-Alcoholic,Consumer Staples,1886,4324340065.0
+27,PEP,PepsiCo,Beverages - Non-Alcoholic,Consumer Staples,1898,1374860005.0
+28,CSCO,Cisco Systems,Communication Equipment,Technology,1984,4054860160.0
+29,BAC,Bank of America,Banks - Diversified,Financials,1784,7946370368.0
+30,CRM,Salesforce,Software - Application,Technology,1999,973000017.0
+31,ACN,Accenture,Information Technology Services,Technology,1989,629507993.0
+32,TMO,Thermo Fisher Scientific,Diagnostics & Research,Healthcare,1956,385950008.0
+33,PFE,Pfizer,Drug Manufacturers - General,Healthcare,1849,5645960048.0
+34,LIN,Linde,Specialty Chemicals,Materials,1879,487945997.0
+35,MCD,McDonald's,Restaurants,Consumer Discretionary,1940,728763023.0
+36,CMCSA,Comcast,Telecom Services,Communication Services,1963,4125130115.0
+37,AMD,Advanced Micro Devices,Semiconductors,Technology,1969,1615669941.0
+38,TMUS,T-Mobile US,Telecom Services,Communication Services,1994,1176460034.0
+39,NFLX,Netflix,Entertainment,Communication Services,1997,443147015.0
+40,ABT,Abbott Laboratories,Medical Devices,Healthcare,1888,1735360066.0
+41,DHR,Danaher,Diagnostics & Research,Healthcare,1969,738352003.0
+42,DIS,The Walt Disney Company,Entertainment,Communication Services,1923,1829779988.0
+43,INTC,Intel,Semiconductors,Technology,1968,4188000069.0
+44,INTU,Intuit,Software - Application,Technology,1983,280259002.0
+45,AMGN,Amgen,Drug Manufacturers - General,Healthcare,1980,534901030.0
+46,NKE,"NIKE, Inc.",Footwear & Accessories,Consumer Discretionary,1964,1521910009.0
+47,WFC,Wells Fargo & Company,Banks - Diversified,Financials,1852,3658779605.0
+48,PM,Philip Morris International,Tobacco,Consumer Staples,-,1552349965.0
+49,COP,Conoco Phillips,Oil & Gas E&P,Energy,1917,1197490099.0
+50,TXN,Texas Instruments,Semiconductors,Technology,1930,907966018.0
+51,CAT,Caterpillar,Farm & Heavy Construction Machinery,Industrials,1925,516345936.0
+52,UPS,United Parcel Service,Integrated Freight & Logistics,Industrials,1907,854450023.0
+53,VZ,Verizon Communications,Telecom Services,Communication Services,1983,4204039876.0
+54,MS,Morgan Stanley,Capital Markets,Financials,1924,1656969986.0
+55,IBM,International Business Machines,Information Technology Services,Technology,1911,911005993.0
+56,UNP,Union Pacific,Railroads,Industrials,1862,609455978.0
+57,HON,Honeywell International,Conglomerates,Industrials,-,663960988.0
+58,QCOM,QUALCOMM,Semiconductors,Technology,1985,1116000023.0
+59,GE,General Electric Company,Specialty Industrial Machinery,Industrials,1892,1088380035.0
+60,AMAT,Applied Materials,Semiconductor Equipment & Materials,Technology,1967,836533990.0
+61,BMY,Bristol-Myers Squibb Company,Drug Manufacturers - General,Healthcare,1887,2089100124.0
+62,SPGI,S&P Global,Financial Data & Stock Exchanges,Financials,1860,318199990.0
+63,BA,The Boeing Company,Aerospace & Defense,Industrials,1916,603203988.0
+64,LOW,Lowe's Companies,Home Improvement Retail,Consumer Discretionary,1946,577114975.0
+65,NOW,ServiceNow,Software - Application,Technology,2004,203999994.0
+66,DE,Deere & Company,Farm & Heavy Construction Machinery,Industrials,1837,288000978.0
+67,AXP,American Express Company,Credit Services,Financials,1850,736458961.0
+68,LMT,Lockheed Martin,Aerospace & Defense,Industrials,1912,251831010.0
+69,BKNG,Booking Holdings,Travel Services,Consumer Discretionary,1997,35692199.0
+70,NEE,NextEra Energy,Utilities - Regulated Electric,Utilities,1925,2023709970.0
+71,ELV,Elevance Health,Healthcare Plans,Healthcare,1944,235648008.0
+72,RTX,RTX Corp,Aerospace & Defense,Industrials,-,1455509996.0
+73,T,AT&T Inc.,Telecom Services,Communication Services,-,7149000328.0
+74,SBUX,Starbucks,Restaurants,Consumer Discretionary,1971,1145400005.0
+75,PLD,Prologis,REIT - Industrial,Real Estate,-,923862056.0
+76,GS,The Goldman Sachs Group,Capital Markets,Financials,1869,329670999.0
+77,ADP,Automatic Data Processing,Staffing & Employment Services,Industrials,1949,411972021.0
+78,TJX,The TJX Companies,Apparel Retail,Consumer Discretionary,-,1144080034.0
+79,ISRG,Intuitive Surgical,Medical Instruments & Supplies,Healthcare,1995,351355022.0
+80,SYK,Stryker,Medical Devices,Healthcare,1941,379777969.0
+81,MDT,Medtronic,Medical Devices,Healthcare,1949,1330530051.0
+82,BLK,BlackRock,Asset Management,Financials,1988,149303001.0
+83,GILD,Gilead Sciences,Drug Manufacturers - General,Healthcare,1987,1246010012.0
+84,MMC,Marsh & McLennan Companies,Insurance Brokers,Financials,1871,493953988.0
+85,VRTX,Vertex Pharmaceuticals,Biotechnology,Healthcare,1989,258095010.0
+86,CVS,CVS Health,Healthcare Plans,Healthcare,1963,1284400073.0
+87,SCHW,The Charles Schwab Corporation,Capital Markets,Financials,1971,1821110006.0
+88,REGN,Regeneron Pharmaceuticals,Biotechnology,Healthcare,1988,108558996.0
+89,ADI,Analog Devices,Semiconductors,Technology,1965,498313992.0
+90,CI,Cigna,Healthcare Plans,Healthcare,1792,295980006.0
+91,CB,Chubb,Insurance - Property & Casualty,Financials,1985,410734984.0
+92,ETN,Eaton Corporation,Specialty Industrial Machinery,Industrials,1916,398999999.0
+93,MDLZ,Mondelez International,Confectioners,Consumer Staples,-,1360420043.0
+94,LRCX,Lam Research,Semiconductor Equipment & Materials,Technology,1980,132221992.0
+95,PGR,The Progressive Corporation,Insurance - Property & Casualty,Financials,1937,585100018.0
+96,SLB,SLB,Oil & Gas Equipment & Services,Energy,1926,1421190012.0
+97,ZTS,Zoetis,Drug Manufacturers - Specialty & Generic,Healthcare,1952,460316975.0
+98,PANW,Palo Alto Networks,Software - Infrastructure,Technology,2005,308594988.0
+99,C,Citigroup,Banks - Diversified,Financials,1812,1925699929.0
+100,CME,CME Group,Financial Data & Stock Exchanges,Financials,1898,359749019.0
+101,AMT,American Tower,REIT - Specialty,Real Estate,-,466156010.0
+102,MU,Micron Technology,Semiconductors,Technology,1978,1098029964.0
+103,BDX,"Becton, Dickinson and Company",Medical Instruments & Supplies,Healthcare,1897,290108973.0
+104,MO,Altria Group,Tobacco,Consumer Staples,1822,1774610093.0
+105,SNPS,Synopsys,Software - Infrastructure,Technology,1986,152084004.0
+106,BSX,Boston Scientific,Medical Devices,Healthcare,1979,1464219993.0
+107,ATVI,Activision Blizzard,Electronic Gaming & Multimedia,Communication Services,-,786798025.0
+108,EOG,EOG Resources,Oil & Gas E&P,Energy,1985,582261015.0
+109,SO,The Southern Company,Utilities - Regulated Electric,Utilities,-,1090550049.0
+110,NOC,Northrop Grumman,Aerospace & Defense,Industrials,1939,151299994.0
+111,ITW,Illinois Tool Works,Specialty Industrial Machinery,Industrials,1912,302390017.0
+112,EQIX,Equinix,REIT - Specialty,Real Estate,-,93564896.0
+113,DUK,Duke Energy,Utilities - Regulated Electric,Utilities,-,770707954.0
+114,FI,Fiserv,Information Technology Services,Technology,1984,609615020.0
+115,CDNS,Cadence Design Systems,Software - Application,Technology,1988,271790016.0
+116,CHTR,Charter Communications,Telecom Services,Communication Services,1993,149671010.0
+117,AON,Aon plc,Insurance Brokers,Financials,1919,202867013.0
+118,HCA,HCA Healthcare,Medical Care Facilities,Healthcare,1968,271988010.0
+119,KLAC,KLA Corporation,Semiconductor Equipment & Materials,Technology,1975,136322005.0
+120,SHW,The Sherwin-Williams Company,Specialty Chemicals,Materials,1866,257148992.0
+121,GD,General Dynamics,Aerospace & Defense,Industrials,2019,273042998.0
+122,APD,Air Products and Chemicals,Specialty Chemicals,Materials,1940,222149007.0
+123,FDX,FedEx,Integrated Freight & Logistics,Industrials,1971,251420003.0
+124,PYPL,PayPal Holdings,Credit Services,Financials,1998,1098040049.0
+125,WM,Waste Management,Waste Management,Industrials,-,405058976.0
+126,CSX,CSX Corporation,Railroads,Industrials,-,2006330035.0
+127,ICE,Intercontinental Exchange,Financial Data & Stock Exchanges,Financials,2000,571201000.0
+128,MCK,McKesson,Medical Distribution,Healthcare,1833,134902001.0
+129,HUM,Humana,Healthcare Plans,Healthcare,1961,123907005.0
+130,MCO,Moody's,Financial Data & Stock Exchanges,Financials,1900,183457992.0
+131,ANET,Arista Networks,Computer Hardware,Technology,2004,309581000.0
+132,MPC,Marathon Petroleum,Oil & Gas Refining & Marketing,Energy,1887,399844007.0
+133,MAR,Marriott International,Lodging,Consumer Discretionary,1927,298240012.0
+134,CL,Colgate-Palmolive Company,Household & Personal Products,Consumer Staples,1806,826691986.0
+135,PXD,Pioneer Natural Resources Company,Oil & Gas E&P,Energy,1997,233140996.0
+136,OXY,Occidental Petroleum,Oil & Gas E&P,Energy,1920,884681947.0
+137,EMR,Emerson Electric Co.,Specialty Industrial Machinery,Industrials,1890,571500000.0
+138,ORLY,O'Reilly Automotive,Specialty Retail,Consumer Discretionary,1957,60258296.0
+139,ROP,Roper Technologies,Specialty Industrial Machinery,Industrials,-,106711002.0
+140,FCX,Freeport-McMoRan,Copper,Materials,1987,1433640022.0
+141,NXPI,NXP Semiconductors,Semiconductors,Technology,2006,257802010.0
+142,PH,Parker-Hannifin,Specialty Industrial Machinery,Industrials,1917,128510001.0
+143,CTAS,Cintas,Specialty Business Services,Industrials,1968,101853999.0
+144,MNST,Monster Beverage,Beverages - Non-Alcoholic,Consumer Staples,-,1047519958.0
+145,AJG,Arthur J. Gallagher & Co.,Insurance Brokers,Financials,1927,215505991.0
+146,USB,U.S. Bancorp,Banks - Regional,Financials,1863,1556969856.0
+147,APH,Amphenol,Electronic Components,Technology,1932,596454012.0
+148,TGT,Target,Discount Stores,Consumer Staples,1902,461604994.0
+149,CMG,Chipotle Mexican Grill,Restaurants,Consumer Discretionary,1993,27587600.0
+150,EL,The EstÃ©e Lauder Companies,Household & Personal Products,Consumer Staples,1946,357838991.0
+151,PSX,Phillips 66,Oil & Gas Refining & Marketing,Energy,1875,445287984.0
+152,MMM,3M Company,Conglomerates,Industrials,1902,551991986.0
+153,PNC,The PNC Financial Services Group,Banks - Regional,Financials,1852,398255007.0
+154,PSA,Public Storage,REIT - Industrial,Real Estate,-,176316001.0
+155,ECL,Ecolab,Specialty Chemicals,Materials,1923,285033992.0
+156,TT,Trane Technologies,Building Products & Equipment,Industrials,1885,228398000.0
+157,F,Ford Motor Company,Auto Manufacturers,Consumer Discretionary,1903,4002230021.0
+158,MSI,Motorola Solutions,Communication Equipment,Technology,1928,167019997.0
+159,TDG,TransDigm Group,Aerospace & Defense,Industrials,1993,55183202.0
+160,HES,Hess Corporation,Oil & Gas E&P,Energy,1920,307060982.0
+161,AFL,Aflac,Insurance - Life,Financials,1955,594062025.0
+162,MET,MetLife,Insurance - Life,Financials,1863,752022015.0
+163,CARR,Carrier Global,Building Products & Equipment,Industrials,-,837628053.0
+164,ODFL,Old Dominion Freight Line,Trucking,Industrials,1934,109268005.0
+165,RSG,Republic Services,Waste Management,Industrials,1996,316326023.0
+166,FTNT,Fortinet,Software - Infrastructure,Technology,2000,785337047.0
+167,AZO,AutoZone,Specialty Retail,Consumer Discretionary,1979,17857001.0
+168,NSC,Norfolk Southern,Railroads,Industrials,-,227015000.0
+169,VLO,Valero Energy,Oil & Gas Refining & Marketing,Energy,1980,353133005.0
+170,ADSK,Autodesk,Software - Application,Technology,1982,213763996.0
+171,PCAR,PACCAR,Farm & Heavy Construction Machinery,Industrials,1905,522804972.0
+172,WELL,Welltower,REIT - Healthcare Facilities,Real Estate,-,518728972.0
+173,MCHP,Microchip Technology,Semiconductors,Technology,1989,544334044.0
+174,CPRT,Copart,Auto & Truck Dealerships,Consumer Discretionary,1982,957356083.0
+175,STZ,Constellation Brands,Beverages - Wineries & Distilleries,Consumer Staples,1945,183685994.0
+176,AIG,American International Group,Insurance - Diversified,Financials,1919,711900044.0
+177,SRE,Sempra,Utilities - Diversified,Utilities,1998,629306968.0
+178,EW,Edwards Lifesciences,Medical Devices,Healthcare,1958,607916010.0
+179,PAYX,Paychex,Staffing & Employment Services,Industrials,1979,361232025.0
+180,GM,General Motors Company,Auto Manufacturers,Consumer Discretionary,1908,1375909995.0
+181,WMB,The Williams Companies,Oil & Gas Midstream,Energy,1908,1216419901.0
+182,MSCI,MSCI Inc.,Financial Data & Stock Exchanges,Financials,1998,79088595.0
+183,ON,ON Semiconductor,Semiconductors,Technology,-,431528969.0
+184,CCI,Crown Castle,REIT - Specialty,Real Estate,-,433679012.0
+185,KDP,Keurig Dr Pepper,Beverages - Non-Alcoholic,Consumer Staples,1981,1397260131.0
+186,SPG,Simon Property Group,REIT - Retail,Real Estate,-,374408013.0
+187,KMB,Kimberly-Clark,Household & Personal Products,Consumer Staples,1910,338184978.0
+188,HLT,Hilton Worldwide Holdings,Lodging,Consumer Discretionary,1919,261513995.0
+189,PCG,PG&E Corporation,Utilities - Regulated Electric,Utilities,-,2501240275.0
+190,EXC,Exelon,Utilities - Regulated Electric,Utilities,-,995219052.0
+191,KHC,The Kraft Heinz Company,Packaged Foods,Consumer Staples,1869,1228290020.0
+192,ADM,Archer-Daniels-Midland Company,Farm Products,Consumer Staples,1902,536101986.0
+193,TFC,Truist Financial,Banks - Regional,Financials,1872,1331980052.0
+194,TEL,TE Connectivity,Electronic Components,Technology,-,313939018.0
+195,OKE,ONEOK,Oil & Gas Midstream,Energy,1906,582472997.0
+196,HSY,The Hershey Company,Confectioners,Consumer Staples,1894,204467996.0
+197,MRNA,Moderna,Biotechnology,Healthcare,2010,380593017.0
+198,AEP,American Electric Power Company,Utilities - Regulated Electric,Utilities,1906,515175977.0
+199,BIIB,Biogen,Drug Manufacturers - General,Healthcare,1978,144822999.0
+200,NUE,Nucor,Steel,Materials,-,248721995.0
+201,ROST,Ross Stores,Apparel Retail,Consumer Discretionary,1982,338631998.0
+202,CNC,Centene,Healthcare Plans,Healthcare,1984,541479023.0
+203,COR,Cencora,REIT - Specialty,Real Estate,1985,200854002.0
+204,DLR,Digital Realty Trust,REIT - Office,Real Estate,-,309192001.0
+205,KMI,Kinder Morgan,Oil & Gas Midstream,Energy,1936,2228170034.0
+206,KVUE,Kenvue,Household & Personal Products,Consumer Staples,-,1914890046.0
+207,IQV,IQVIA Holdings,Diagnostics & Research,Healthcare,1982,183121996.0
+208,HAL,Halliburton Company,Oil & Gas Equipment & Services,Energy,1919,898545933.0
+209,TRV,The Travelers Companies,Insurance - Property & Casualty,Financials,1853,228942012.0
+210,COF,Capital One Financial,Credit Services,Financials,1988,381441012.0
+211,IDXX,IDEXX Laboratories,Diagnostics & Research,Healthcare,-,83012401.0
+212,CEG,Constellation Energy,Utilities - Renewable,Utilities,1999,321591992.0
+213,DHI,D.R. Horton,Residential Construction,Consumer Discretionary,1978,338296996.0
+214,GIS,General Mills,Packaged Foods,Consumer Staples,1866,581278946.0
+215,JCI,Johnson Controls International,Building Products & Equipment,Industrials,1885,680319985.0
+216,O,Realty Income,REIT - Retail,Real Estate,-,708787998.0
+217,D,Dominion Energy,Utilities - Regulated Electric,Utilities,-,836772945.0
+218,DOW,Dow Inc.,Chemicals,Materials,-,703074979.0
+219,GWW,W.W. Grainger,Industrial Distribution,Industrials,1927,50000898.0
+220,VRSK,Verisk Analytics,Consulting Services,Industrials,1971,145027012.0
+221,LVS,Las Vegas Sands,Resorts & Casinos,Consumer Discretionary,1988,764446992.0
+222,CTVA,Corteva,Agricultural Inputs,Materials,-,709763962.0
+223,BKR,Baker Hughes Company,Oil & Gas Equipment & Services,Energy,-,1016650085.0
+224,EA,Electronic Arts,Electronic Gaming & Multimedia,Communication Services,1982,270912010.0
+225,AME,AMETEK,Specialty Industrial Machinery,Industrials,-,230712008.0
+226,DD,DuPont de Nemours,Specialty Chemicals,Materials,-,459060995.0
+227,CTSH,Cognizant Technology Solutions,Information Technology Services,Technology,1994,505040935.0
+228,ROK,Rockwell Automation,Specialty Industrial Machinery,Industrials,1903,114860009.0
+229,PRU,Prudential Financial,Insurance - Life,Financials,1875,362999990.0
+230,AMP,Ameriprise Financial,Asset Management,Financials,1894,102625998.0
+231,LHX,L3Harris Technologies,Aerospace & Defense,Industrials,1895,189132996.0
+232,CSGP,CoStar Group,Real Estate Services,Real Estate,1987,408337004.0
+233,OTIS,Otis Worldwide,Specialty Industrial Machinery,Industrials,1853,411744991.0
+234,A,Agilent Technologies,Diagnostics & Research,Healthcare,1999,292587001.0
+235,YUM,Yum! Brands,Restaurants,Consumer Discretionary,-,280210999.0
+236,BK,The Bank of New York Mellon Corporation,Asset Management,Financials,1784,778782051.0
+237,CMI,Cummins,Specialty Industrial Machinery,Industrials,1919,141647006.0
+238,XEL,Xcel Energy,Utilities - Regulated Electric,Utilities,1909,551533016.0
+239,SYY,Sysco,Food Distribution,Consumer Staples,1969,504926026.0
+240,LEN,Lennar,Residential Construction,Consumer Discretionary,1954,281759993.0
+241,FAST,Fastenal Company,Industrial Distribution,Industrials,1967,571332984.0
+242,KR,The Kroger Co.,Grocery Stores,Consumer Staples,1883,719315948.0
+243,FIS,Fidelity National Information Services,Information Technology Services,Technology,1968,592465002.0
+244,PPG,PPG Industries,Specialty Chemicals,Materials,1883,235512999.0
+245,NEM,Newmont,Gold,Materials,1916,794000017.0
+246,URI,United Rentals,Rental & Leasing Services,Industrials,1997,68282706.0
+247,ACGL,Arch Capital Group,Insurance - Diversified,Financials,1995,372953973.0
+248,GEHC,GE HealthCare Technologies,Health Information Services,Healthcare,1892,454838017.0
+249,DXCM,DexCom,Medical Devices,Healthcare,1999,387872008.0
+250,ED,Consolidated Edison,Utilities - Regulated Electric,Utilities,1884,344923997.0
+251,PEG,Public Service Enterprise Group,Utilities - Regulated Electric,Utilities,-,499111012.0
+252,LYB,LyondellBasell Industries,Specialty Chemicals,Materials,1955,324196998.0
+253,ALL,The Allstate Corporation,Insurance - Property & Casualty,Financials,1931,261573996.0
+254,DVN,Devon Energy,Oil & Gas E&P,Energy,1971,640700043.0
+255,GPN,Global Payments,Specialty Business Services,Industrials,1967,259994008.0
+256,VICI,VICI Properties,REIT - Diversified,Real Estate,-,1013430059.0
+257,WST,West Pharmaceutical Services,Medical Instruments & Supplies,Healthcare,1923,73861200.0
+258,CDW,CDW Corporation,Information Technology Services,Technology,1984,134048007.0
+259,VMC,Vulcan Materials Company,Building Materials,Materials,1909,132865993.0
+260,IT,Gartner,Information Technology Services,Technology,1979,78825199.0
+261,FANG,Diamondback Energy,Oil & Gas E&P,Energy,2007,178818003.0
+262,APTV,Aptiv,Auto Parts,Consumer Discretionary,-,282823996.0
+263,FTV,Fortive,Scientific & Technical Instruments,Technology,-,352024020.0
+264,BF-B,Brown-Forman,Beverages - Wineries & Distilleries,Consumer Staples,1870,481511990.0
+265,MLM,Martin Marietta Materials,Building Materials,Materials,1993,61804202.0
+266,WBD,Warner Bros. Discovery,Entertainment,Communication Services,1923,2437380110.0
+267,EXR,Extra Space Storage,REIT - Industrial,Real Estate,-,218491009.0
+268,IR,Ingersoll Rand,Specialty Industrial Machinery,Industrials,1859,404398998.0
+269,HPQ,HP Inc.,Computer Hardware,Technology,1939,988269002.0
+270,ANSS,ANSYS,Software - Application,Technology,1970,86791107.0
+271,WEC,WEC Energy Group,Utilities - Regulated Electric,Utilities,-,315434984.0
+272,PWR,Quanta Services,Engineering & Construction,Industrials,1997,145199008.0
+273,AVB,AvalonBay Communities,REIT - Residential,Real Estate,-,142015998.0
+274,EIX,Edison International,Utilities - Regulated Electric,Utilities,1886,383288987.0
+275,GLW,Corning,Electronic Components,Technology,1851,852982006.0
+276,TTWO,Take-Two Interactive Software,Electronic Gaming & Multimedia,Communication Services,1993,169831011.0
+277,NDAQ,Nasdaq,Financial Data & Stock Exchanges,Financials,1971,491315983.0
+278,MTD,Mettler-Toledo International,Diagnostics & Research,Healthcare,-,21864799.0
+279,MPWR,Monolithic Power Systems,Semiconductors,Technology,1997,47777999.0
+280,AWK,American Water Works Company,Utilities - Regulated Water,Utilities,1886,194669002.0
+281,KEYS,Keysight Technologies,Scientific & Technical Instruments,Technology,-,177575004.0
+282,DLTR,Dollar Tree,Discount Stores,Consumer Staples,1986,220006002.0
+283,TROW,T. Rowe Price Group,Asset Management,Financials,1937,224295013.0
+284,DAL,Delta Air Lines,Airlines,Industrials,1924,643417962.0
+285,EQR,Equity Residential,REIT - Residential,Real Estate,-,379031998.0
+286,EBAY,eBay Inc.,Internet Retail,Consumer Discretionary,1995,532156982.0
+287,EFX,Equifax,Consulting Services,Industrials,1899,122720001.0
+288,CBRE,CBRE Group,Real Estate Services,Real Estate,1906,309837995.0
+289,RCL,Royal Caribbean Cruises,Travel Services,Consumer Discretionary,1968,256172977.0
+290,DG,Dollar General,Discount Stores,Consumer Staples,1939,219476016.0
+291,DFS,Discover Financial Services,Credit Services,Financials,1985,249947997.0
+292,CAH,Cardinal Health,Medical Distribution,Healthcare,1979,246354004.0
+293,FICO,Fair Isaac,Software - Application,Technology,1956,24857200.0
+294,WY,Weyerhaeuser Company,REIT - Specialty,Real Estate,-,730748049.0
+295,XYL,Xylem,Specialty Industrial Machinery,Industrials,-,240828991.0
+296,TSCO,Tractor Supply Company,Specialty Retail,Consumer Discretionary,1938,108808001.0
+297,STE,STERIS,Medical Devices,Healthcare,1985,98781402.0
+298,WTW,Willis Towers Watson,Insurance Brokers,Financials,1828,104822999.0
+299,HPE,Hewlett Packard Enterprise Company,Communication Equipment,Technology,1939,1282860039.0
+300,ZBH,Zimmer Biomet Holdings,Medical Devices,Healthcare,1927,208964000.0
+301,SBAC,SBA Communications,REIT - Specialty,Real Estate,-,108383004.0
+302,ILMN,Illumina,Diagnostics & Research,Healthcare,1998,158299990.0
+303,HIG,The Hartford Financial Services Group,Insurance - Diversified,Financials,1810,305817008.0
+304,VRSN,VeriSign,Software - Infrastructure,Technology,-,103134000.0
+305,CHD,Church & Dwight Co.,Household & Personal Products,Consumer Staples,1846,246047023.0
+306,BR,Broadridge Financial Solutions,Information Technology Services,Technology,1962,117621000.0
+307,CTRA,Coterra Energy,Oil & Gas E&P,Energy,1989,755045983.0
+308,ALGN,Align Technology,Medical Devices,Healthcare,1997,76533690.0
+309,RMD,ResMed,Medical Instruments & Supplies,Healthcare,1989,147084994.0
+310,RJF,Raymond James Financial,Capital Markets,Financials,1962,208841993.0
+311,MTB,M&T Bank,Banks - Regional,Financials,1856,165948995.0
+312,GRMN,Garmin,Scientific & Technical Instruments,Technology,1990,191452005.0
+313,STT,State Street,Asset Management,Financials,1792,318640008.0
+314,GPC,Genuine Parts Company,Specialty Retail,Consumer Discretionary,1928,140438003.0
+315,ES,Eversource Energy,Utilities - Regulated Electric,Utilities,1927,349086028.0
+316,AEE,Ameren,Utilities - Regulated Electric,Utilities,1901,262750011.0
+317,FE,FirstEnergy,Utilities - Regulated Electric,Utilities,1996,573361972.0
+318,BRO,Brown & Brown,Insurance Brokers,Financials,1939,283612978.0
+319,DTE,DTE Energy Company,Utilities - Regulated Electric,Utilities,1903,206175994.0
+320,NVR,"NVR, Inc.",Residential Construction,Consumer Discretionary,1980,3264330.0
+321,LYV,Live Nation Entertainment,Entertainment,Communication Services,-,230151018.0
+322,INVH,Invitation Homes,REIT - Residential,Real Estate,-,614494967.0
+323,ETR,Entergy,Utilities - Regulated Electric,Utilities,1949,211456000.0
+324,JBHT,J.B. Hunt Transport Services,Integrated Freight & Logistics,Industrials,-,103345001.0
+325,DOV,Dover,Specialty Industrial Machinery,Industrials,-,139873992.0
+326,MOH,Molina Healthcare,Healthcare Plans,Healthcare,1980,58299999.0
+327,HRL,Hormel Foods,Packaged Foods,Consumer Staples,1891,546481016.0
+328,WBA,Walgreens Boots Alliance,Pharmaceutical Retailers,Healthcare,1901,863260998.0
+329,ULTA,Ulta Beauty,Specialty Retail,Consumer Discretionary,1990,49228597.0
+330,TDY,Teledyne Technologies,Scientific & Technical Instruments,Technology,1960,47074599.0
+331,ALB,Albemarle,Specialty Chemicals,Materials,1994,117347007.0
+332,HWM,Howmet Aerospace,Specialty Industrial Machinery,Industrials,-,412208015.0
+333,TRGP,Targa Resources,Oil & Gas Midstream,Energy,2005,223711998.0
+334,FLT,FLEETCOR Technologies,Software - Infrastructure,Technology,1986,73957400.0
+335,WAB,Westinghouse Air Brake Technologies,Railroads,Industrials,1869,179130003.0
+336,STLD,Steel Dynamics,Steel,Materials,1993,165643997.0
+337,EQT,EQT Corporation,Oil & Gas E&P,Energy,1925,411256975.0
+338,PPL,PPL Corporation,Utilities - Regulated Electric,Utilities,1920,737089045.0
+339,IRM,Iron Mountain,REIT - Specialty,Real Estate,1951,291852019.0
+340,LH,Laboratory Corporation of America Holdings,Diagnostics & Research,Healthcare,1971,88600000.0
+341,J,Jacobs Engineering Group,Engineering & Construction,Industrials,1947,125918000.0
+342,ROL,Rollins,Personal Services,Consumer Discretionary,1948,484097014.0
+343,ARE,Alexandria Real Estate Equities,REIT - Office,Real Estate,-,173028002.0
+344,ENPH,Enphase Energy,Solar,Technology,2006,136355015.0
+345,CNP,CenterPoint Energy,Utilities - Regulated Electric,Utilities,1866,631184005.0
+346,FDS,FactSet Research Systems,Financial Data & Stock Exchanges,Financials,1978,38146197.0
+347,VTR,Ventas,REIT - Healthcare Facilities,Real Estate,-,402377985.0
+348,EXPD,Expeditors International of Washington,Integrated Freight & Logistics,Industrials,1979,147896985.0
+349,TSN,Tyson Foods,Farm Products,Consumer Staples,1935,355559987.0
+350,PFG,Principal Financial Group,Insurance - Diversified,Financials,1879,241715018.0
+351,PTC,PTC Inc.,Software - Application,Technology,1985,118833002.0
+352,EG,Everest Group,Insurance - Reinsurance,Financials,1973,43403600.0
+353,FITB,Fifth Third Bancorp,Banks - Regional,Financials,1858,680889028.0
+354,HOLX,Hologic,Medical Instruments & Supplies,Healthcare,-,244942009.0
+355,K,Kellanova Co,Packaged Foods,Consumer Staples,1906,342346996.0
+356,COO,The Cooper Companies,Medical Instruments & Supplies,Healthcare,1980,49524100.0
+357,IFF,International Flavors & Fragrances,Specialty Chemicals,Materials,1833,255253003.0
+358,MKC,McCormick & Company,Packaged Foods,Consumer Staples,1889,268916995.0
+359,DRI,Darden Restaurants,Restaurants,Consumer Discretionary,1968,120315003.0
+360,ATO,Atmos Energy,Utilities - Regulated Gas,Utilities,1906,148462000.0
+361,PHM,PulteGroup,Residential Construction,Consumer Discretionary,1950,219444974.0
+362,BAX,Baxter International,Medical Instruments & Supplies,Healthcare,1931,506405031.0
+363,CCL,Carnival Corporation,Travel Services,Consumer Discretionary,-,1306259893.0
+364,WRB,W. R. Berkley,Insurance - Property & Casualty,Financials,1967,257523004.0
+365,TYL,Tyler Technologies,Software - Application,Technology,1966,42078402.0
+366,AXON,Axon Enterprise,Aerospace & Defense,Industrials,1993,74760001.0
+367,AKAM,Akamai Technologies,Software - Infrastructure,Technology,1998,151712993.0
+368,CF,CF Industries Holdings,Agricultural Inputs,Materials,1946,192948004.0
+369,FSLR,First Solar,Solar,Technology,1999,106831000.0
+370,PAYC,Paycom Software,Software - Application,Technology,1998,57949098.0
+371,NTAP,NetApp,Computer Hardware,Technology,1992,208791021.0
+372,MRO,Marathon Oil,Oil & Gas E&P,Energy,1887,605686954.0
+373,CINF,Cincinnati Financial,Insurance - Property & Casualty,Financials,1950,156855993.0
+374,CMS,CMS Energy,Utilities - Regulated Electric,Utilities,1987,291727016.0
+375,IEX,IDEX Corporation,Specialty Industrial Machinery,Industrials,-,75601695.0
+376,TXT,Textron,Aerospace & Defense,Industrials,1923,198071013.0
+377,WAT,Waters,Diagnostics & Research,Healthcare,1958,59102902.0
+378,MAA,Mid-America Apartment Communities,REIT - Residential,Real Estate,-,119832006.0
+379,LUV,Southwest Airlines Co.,Airlines,Industrials,1967,595633988.0
+380,SWKS,Skyworks Solutions,Semiconductors,Technology,1962,159392986.0
+381,RF,Regions Financial,Banks - Regional,Financials,1970,938377019.0
+382,BBY,Best Buy Co.,Specialty Retail,Consumer Discretionary,1966,217637986.0
+383,BG,Bunge,Farm Products,Consumer Staples,1818,150641996.0
+384,TER,Teradyne,Semiconductor Equipment & Materials,Technology,1960,154013991.0
+385,CLX,The Clorox Company,Household & Personal Products,Consumer Staples,1913,124001002.0
+386,WDC,Western Digital,Computer Hardware,Technology,1970,324144981.0
+387,AVY,Avery Dennison,Business Equipment & Supplies,Industrials,1935,80582799.0
+388,EXPE,Expedia Group,Travel Services,Consumer Discretionary,1996,143364991.0
+389,OMC,Omnicom Group,Advertising Agencies,Communication Services,-,197571003.0
+390,ESS,Essex Property Trust,REIT - Residential,Real Estate,-,66443403.0
+391,HBAN,Huntington Bancshares,Banks - Regional,Financials,1866,1447879962.0
+392,FOXA,Fox Corporation,Entertainment,Communication Services,-,468083992.0
+393,FOX,Fox Corporation,Entertainment,Communication Services,-,506118984.0
+394,L,Loews,Insurance - Property & Casualty,Financials,-,225508994.0
+395,BALL,Ball Corporation,Packaging & Containers,Consumer Discretionary,1880,315059016.0
+396,STX,Seagate Technology Holdings,Computer Hardware,Technology,1978,207847989.0
+397,EPAM,EPAM Systems,Information Technology Services,Technology,1993,57960798.0
+398,NTRS,Northern Trust,Asset Management,Financials,1889,207003989.0
+399,PKG,Packaging Corporation of America,Packaging & Containers,Consumer Discretionary,1867,89915103.0
+400,SNA,Snap-on,Tools & Accessories,Industrials,1920,52916498.0
+401,DGX,Quest Diagnostics,Diagnostics & Research,Healthcare,1967,112235005.0
+402,POOL,Pool Corporation,Industrial Distribution,Industrials,1993,39052000.0
+403,LKQ,LKQ Corporation,Auto Parts,Consumer Discretionary,1998,267555996.0
+404,RVTY,Revvity,Diagnostics & Research,Healthcare,1937,124135006.0
+405,CE,Celanese,Chemicals,Materials,1918,108852000.0
+406,UAL,United Airlines Holdings,Airlines,Industrials,1934,327980007.0
+407,CBOE,Cboe Global Markets,Financial Data & Stock Exchanges,Financials,1973,105517002.0
+408,MGM,MGM Resorts International,Resorts & Casinos,Consumer Discretionary,1986,350888969.0
+409,LW,Lamb Weston Holdings,Packaged Foods,Consumer Staples,1950,144927007.0
+410,LDOS,Leidos Holdings,Information Technology Services,Technology,1969,137351002.0
+411,CAG,Conagra Brands,Packaged Foods,Consumer Staples,1919,477968018.0
+412,TRMB,Trimble,Scientific & Technical Instruments,Technology,1978,248321988.0
+413,TAP,Molson Coors Beverage Company,Beverages - Brewers,Consumer Staples,1873,216351009.0
+414,NDSN,Nordson,Specialty Industrial Machinery,Industrials,1935,57014500.0
+415,UDR,"UDR, Inc.",REIT - Residential,Real Estate,-,352632023.0
+416,AMCR,Amcor,Packaging & Containers,Consumer Discretionary,-,1446439930.0
+417,SWK,Stanley Black & Decker,Tools & Accessories,Industrials,1843,153229998.0
+418,INCY,Incyte,Biotechnology,Healthcare,1991,224087999.0
+419,CFG,Citizens Financial Group,Banks - Regional,Financials,1828,472294026.0
+420,LNT,Alliant Energy,Utilities - Regulated Electric,Utilities,1917,252718996.0
+421,DPZ,Domino's Pizza,Restaurants,Consumer Discretionary,1960,35094297.0
+422,SYF,Synchrony Financial,Credit Services,Financials,-,418182991.0
+423,IP,International Paper Company,Packaging & Containers,Consumer Discretionary,1898,345999021.0
+424,NWSA,News Corporation,Entertainment,Communication Services,-,577746973.0
+425,MAS,Masco,Building Products & Equipment,Industrials,1929,224926001.0
+426,NWS,News Corporation,Entertainment,Communication Services,-,556448017.0
+427,MOS,The Mosaic Company,Agricultural Inputs,Materials,-,332280007.0
+428,APA,APA Corporation,Oil & Gas E&P,Energy,1954,307264996.0
+429,BEN,Franklin Resources,Asset Management,Financials,1947,498978003.0
+430,CPB,Campbell Soup Company,Packaged Foods,Consumer Staples,1869,297944992.0
+431,SJM,The J. M. Smucker Company,Packaged Foods,Consumer Staples,1897,102131000.0
+432,CDAY,Ceridian HCM Holding,Software - Application,Technology,-,155612989.0
+433,VTRS,Viatris,Drug Manufacturers - Specialty & Generic,Healthcare,-,1199529979.0
+434,EVRG,Evergy,Utilities - Regulated Electric,Utilities,-,229701990.0
+435,HST,Host Hotels & Resorts,REIT - Hotel & Motel,Real Estate,-,721614953.0
+436,GEN,Gen Digital,Software - Infrastructure,Technology,1982,639438965.0
+437,IPG,The Interpublic Group of Companies,Advertising Agencies,Communication Services,1902,384934988.0
+438,ZBRA,Zebra Technologies,Communication Equipment,Technology,1969,51338402.0
+439,TECH,Bio-Techne,Biotechnology,Healthcare,1976,158239995.0
+440,KMX,CarMax,Auto & Truck Dealerships,Consumer Discretionary,1993,158667999.0
+441,REG,Regency Centers,REIT - Retail,Real Estate,-,182137003.0
+442,PNR,Pentair,Specialty Industrial Machinery,Industrials,1966,165112991.0
+443,WYNN,Wynn Resorts,Resorts & Casinos,Consumer Discretionary,2002,113936003.0
+444,KIM,Kimco Realty,REIT - Retail,Real Estate,-,619874986.0
+445,NI,NiSource,Utilities - Regulated Gas,Utilities,1912,413254992.0
+446,GL,Globe Life,Insurance - Life,Financials,-,94819697.0
+447,JKHY,Jack Henry & Associates,Information Technology Services,Technology,1976,72800799.0
+448,AOS,A. O. Smith,Specialty Industrial Machinery,Industrials,1874,150490995.0
+449,MTCH,Match Group,Internet Content & Information,Communication Services,-,278087001.0
+450,CPT,Camden Property Trust,REIT - Residential,Real Estate,-,106770993.0
+451,BIO,Bio-Rad Laboratories,Medical Devices,Healthcare,1952,29048700.0
+452,CZR,Caesars Entertainment,Resorts & Casinos,Consumer Discretionary,1937,223738990.0
+453,CRL,Charles River Laboratories International,Diagnostics & Research,Healthcare,-,51271401.0
+454,CHRW,C.H. Robinson Worldwide,Integrated Freight & Logistics,Industrials,1905,116431003.0
+455,PEAK,Healthpeak Properties,REIT - Healthcare Facilities,Real Estate,-,547053992.0
+456,KEY,KeyCorp,Banks - Regional,Financials,1825,935919030.0
+457,HSIC,Henry Schein,Medical Distribution,Healthcare,1932,130585000.0
+458,WRK,WestRock Company,Packaging & Containers,Consumer Discretionary,-,256403007.0
+459,NRG,NRG Energy,Utilities - Independent Power Producers,Utilities,1989,229116985.0
+460,BWA,BorgWarner,Auto Parts,Consumer Discretionary,1987,235063004.0
+461,FFIV,"F5, Inc.",Software - Infrastructure,Technology,1996,59306398.0
+462,PODD,Insulet,Medical Devices,Healthcare,2000,69821100.0
+463,ALLE,Allegion,Security & Protection Services,Industrials,-,87780001.0
+464,QRVO,Qorvo,Semiconductors,Technology,1957,97910403.0
+465,TFX,Teleflex,Medical Instruments & Supplies,Healthcare,1943,46992197.0
+466,AES,The AES Corporation,Utilities - Diversified,Utilities,1981,669629007.0
+467,BXP,Boston Properties,REIT - Office,Real Estate,-,156864994.0
+468,MKTX,MarketAxess Holdings,Capital Markets,Financials,2000,37677400.0
+469,UHS,Universal Health Services,Medical Care Facilities,Healthcare,1978,69379103.0
+470,EMN,Eastman Chemical Company,Specialty Chemicals,Materials,1920,118556010.0
+471,HII,Huntington Ingalls Industries,Aerospace & Defense,Industrials,1886,39867601.0
+472,PNW,Pinnacle West Capital,Utilities - Regulated Electric,Utilities,-,113312006.0
+473,JNPR,Juniper Networks,Communication Equipment,Technology,1996,321360004.0
+474,CTLT,Catalent,Drug Manufacturers - Specialty & Generic,Healthcare,2007,180272000.0
+475,RHI,Robert Half International,Staffing & Employment Services,Industrials,1948,107082000.0
+476,AAL,American Airlines Group,Airlines,Industrials,1930,653361969.0
+477,HAS,Hasbro,Leisure,Consumer Discretionary,1923,138740993.0
+478,PARA,Paramount Global,Entertainment,Communication Services,1986,661262044.0
+479,ETSY,"Etsy, Inc.",Internet Retail,Consumer Discretionary,2005,123013993.0
+480,FMC,FMC Corporation,Agricultural Inputs,Materials,1910,124733993.0
+481,AIZ,Assurant,Insurance - Specialty,Financials,1892,53022702.0
+482,RL,Ralph Lauren,Apparel Manufacturing,Consumer Discretionary,1967,65269198.0
+483,FRT,Federal Realty Investment Trust,REIT - Retail,Real Estate,-,82160304.0
+484,BBWI,Bath & Body Works,Specialty Retail,Consumer Discretionary,1963,227380993.0
+485,SEDG,SolarEdge Technologies,Solar,Technology,2006,56557800.0
+486,WHR,Whirlpool,"Furnishings, Fixtures & Appliances",Consumer Discretionary,1911,54817801.0
+487,DVA,DaVita,Medical Care Facilities,Healthcare,1994,91299996.0
+488,XRAY,DENTSPLY SIRONA,Medical Instruments & Supplies,Healthcare,1899,211715992.0
+489,GNRC,Generac Holdings,Specialty Industrial Machinery,Industrials,1959,62242597.0
+490,NCLH,Norwegian Cruise Line Holdings,Travel Services,Consumer Discretionary,1966,425424004.0
+491,TPR,Tapestry,Luxury Goods,Consumer Discretionary,1941,229129005.0
+492,VFC,V.F. Corporation,Apparel Manufacturing,Consumer Discretionary,1899,388867992.0
+493,IVZ,Invesco,Asset Management,Financials,1935,448620999.0
+494,CMA,Comerica,Banks - Regional,Financials,1849,131776991.0
+495,MHK,Mohawk Industries,"Furnishings, Fixtures & Appliances",Consumer Discretionary,1988,63682204.0
+496,ZION,"Zions Bancorporation,NA",Banks - Regional,Financials,1873,148144995.0
+497,SEE,Sealed Air,Packaging & Containers,Consumer Discretionary,1960,145000003.0
+498,OGN,Organon & Co.,Drug Manufacturers - General,Healthcare,1923,255567981.0
+499,ALK,Alaska Air Group,Airlines,Industrials,1932,127223997.0
+500,NWL,Newell Brands,Household & Personal Products,Consumer Staples,1903,414200009.0
